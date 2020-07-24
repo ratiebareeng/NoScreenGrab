@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">No ScreenGrab</string>
+    <string name="this_application_does_not_allow_screenshotting">This application does not allow screenshotting</string>
+</resources>
